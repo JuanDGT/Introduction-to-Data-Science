@@ -5,4 +5,3 @@ The chapter ends with 2 exercises that serve to understand the process behind th
 to more information see the pdf.
 
 
-hola guapos 
